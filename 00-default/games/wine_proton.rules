@@ -741,6 +741,10 @@
 # https://store.steampowered.com/app/304390/FOR_HONOR/
 { "name": "forhonor.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2943650/FragPunk/
+{ "name": "FragPunk.exe", "type": "Game" }
+{ "name": "FragNeacClient.exe", "type": "Game" }
+
 ### G ###
 
 # https://store.steampowered.com/app/1224600/G_String/
