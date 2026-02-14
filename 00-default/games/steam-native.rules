@@ -67,6 +67,9 @@
 { "name": "csgo_linux64", "type": "Game" }
 { "name": "cs2", "type": "Game" }
 
+# https://store.steampowered.com/app/504230/Celeste/
+{ "name": "cstrike_linux64.x86_64", "type": "Game" }
+
 # http://store.steampowered.com/app/355180/Codename_CURE/
 { "name": "cure_linux", "type": "Game" }
 
